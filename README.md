@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm @Kashvi1811
 
-I'm a BTech CSE student passionate about Data Science, Analytics, and real-world tech solutions. I love turning data into insights and building things that make life easier.
+I'm a BTech CSE with a specialization in Data Science student passionate about Data Science, Analytics, and real-world tech solutions. I love turning data into insights and building things that make life easier.
 
 - 👀 I’m interested in **Data Science ,Data Analysis, Machine Learning, and Tech for Social Good**
 - 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithms and Database Management System**
