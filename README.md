@@ -5,7 +5,7 @@
 
 🔎 About Me
 🎓 I'm a BTech CSE (Data Science) student with a passion for turning data into insights and ideas into impactful tech solutions.
-🔍 I love solving real-world problems using technology to create positive change — especially in **healthcare**, **education**, and **social good**.
+🚧 I love solving real-world problems using technology to create positive change — especially in **healthcare**, **education**, and **social good**.
 
  🧠 Currently Exploring  
  🤖 Machine Learning  
