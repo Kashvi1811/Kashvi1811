@@ -1,13 +1,42 @@
-### 👋 Hi there, I'm @Kashvi1811
+✨ **Hey, I’m Kashvi Soni** ✨  
+🚀 *Data Science Enthusiast | 💻 Tech Explorer | 🌍 Problem Solver*  
+*"Fueling ideas with data. Building for impact."*
 
-I'm a BTech CSE with a specialization in Data Science student passionate about Data Science, Analytics and real-world tech solutions. I love turning data into insights and building things that make life easier.
+🔎 About Me  
+🎓 I'm a BTech CSE (Data Science) student with a passion for turning data into insights and ideas into impactful tech solutions.  
+🔍 I love solving real-world problems and using technology to create positive change — especially in **healthcare**, **education**, and **social good**.
 
-- 👀 I’m interested in **Data Science ,Data Analysis, Machine Learning, and Tech for Social Good**
-- 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithms and Database Management System**
-- 💞️ I’m looking to collaborate on **open-source projects related to healthcare, education, and productivity tools**
-- 📫 How to reach me: **LinkedIn : https://www.linkedin.com/in/kashvi-soni-6330a92b2/** | **Email: kashvisoni2005@gmail.com**
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love sketching, dancing, and writing ✨
+ 🧠 Currently Exploring  
+- 🤖 Machine Learning  
+- 🗃️ Database Management Systems  
+- 🔧 Data Structures & Algorithms
+
+ 💡 What I Love  
+- 📊 Data Science & Analytics  
+- 🔍 Machine Learning & AI  
+- ❤️ Tech for Social Good  
+- 🌱 Open Source Collaboration
+
+🤝 Let’s Build Together  
+Open to collaborating on:
+- 🏥 Healthcare innovations  
+- 🎓 Educational tech tools  
+- ⚙️ Productivity & automation apps  
+
+If your idea is **data-driven and impact-focused**, count me in!
+
+📬 Connect With Me  
+📧 Email: kashvisoni2005@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/kashvi-soni-6330a92b2](https://www.linkedin.com/in/kashvi-soni-6330a92b2/)
+
+🎨 Fun Bytes About Me  
+- ✏️ I sketch emotions  
+- 💃 I dance like nobody’s watching  
+- 📝 I write to express  
+- 🤹‍♀️ I balance tech with creativity!
+
+🔗 Pronouns  
+**She / Her**
 
 <!---
 Kashvi1811/Kashvi1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
